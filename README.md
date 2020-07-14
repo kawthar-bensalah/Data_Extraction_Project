@@ -33,7 +33,7 @@ The project in four steps :
 
 ![alt text](https://raw.githubusercontent.com/kawthar-bensalah/Data_Extraction_Project/master/s2.PNG)
 
-![alt text](https://raw.githubusercontent.com/kawthar-bensalah/Data_Extraction_Project/master/s3.PNG)
+![alt text](https://raw.githubusercontent.com/kawthar-bensalah/Data_Extraction_Project/master/s3.png)
 
 
 
