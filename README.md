@@ -23,6 +23,10 @@ The project in four steps :
 
 ### Executing program
 
+* Apache HTTP Server
+1 - Open Windows Services and start Apache HTTP Server.  
+2 - Open a Web browser and type the machine IP in the address bar and hit Enter.  
+3 - The message "It works!" should be seen.  
 * 
 
 
