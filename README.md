@@ -7,7 +7,7 @@ Java Application to extract data from reference website.
 The project in four steps :  
 * Generate a dictionary of medical entities by active substance from a medical website placed on the Apache server.  
 * Apply these dictionaries to a medical corpus composed of patient documents, in order to extract all occurrences of medical entities by active substance.  
-* The result of this extraction will be displayed in a HTM page and stored in a MySQL database.  
+* The result of this extraction will be displayed in an HTML page and stored in a MySQL database.  
 * Enrich the previously generated dictionary with new medical entities from the medical corpus.     
 
 
