@@ -4,12 +4,13 @@ Java Application to extract data from reference website.
 
 ## Description
 
-The project in four steps :  
-* Generate a dictionary of medical entities by active substance from a medical website placed on the Apache server.  
-* Apply these dictionaries to a medical corpus composed of patient documents, in order to extract all occurrences of medical entities by active substance.  
-* The result of this extraction will be displayed in an HTML page and stored in a MySQL database.  
-* Enrich the previously generated dictionary with new medical entities from the medical corpus.     
+* The project in four steps :  
+1 - Generate a dictionary of medical entities by active substance from a medical website placed on the Apache server.  
+2 - Apply these dictionaries to a medical corpus composed of patient documents, in order to extract all occurrences of medical entities by active substance.  
+3 - The result of this extraction will be displayed in an HTML page and stored in a MySQL database.  
+4 - Enrich the previously generated dictionary with new medical entities from the medical corpus.     
 
+* The aspiration of the html code is carried out by the use of JAVA programming language and the "URL" (aspiration) class. This class provides a high-level interface to access Web informations from the URLs. The extraction will be done locally on the "EasyPHP" web development platform's web server, starting from a directory called "vidal" containing 26 HTML pages, which will be generated from the Vidal web site.
 
 
 ## Getting Started
@@ -27,9 +28,8 @@ The project in four steps :
 1 - Open Windows Services and start Apache HTTP Server.  
 2 - Open a Web browser and type the machine IP in the address bar and hit Enter.  
 3 - The message "It works!" should be seen.  
-* 
-
-
+* To Run the App  
+1 - Right-click on the file Vidal.java located in the folder Data_Extraction_Project/src/ and select Run As → Java Application.  
 
 ## Screenshots
 
