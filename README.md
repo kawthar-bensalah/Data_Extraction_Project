@@ -29,11 +29,11 @@ The project in four steps :
 
 ## Screenshots
 
-![alt text](https://raw.githubusercontent.com/kawthar-bensalah/KontRol/master/screen3.PNG)
+![alt text](https://raw.githubusercontent.com/kawthar-bensalah/Data_Extraction_Project/master/s1.PNG)
 
-![alt text](https://raw.githubusercontent.com/kawthar-bensalah/KontRol/master/screen4.PNG)
+![alt text](https://raw.githubusercontent.com/kawthar-bensalah/Data_Extraction_Project/master/s2.PNG)
 
-![alt text](https://raw.githubusercontent.com/kawthar-bensalah/KontRol/master/screen5.PNG)
+![alt text](https://raw.githubusercontent.com/kawthar-bensalah/Data_Extraction_Project/master/s3.PNG)
 
 
 
