@@ -33,12 +33,15 @@ Java Application to extract data from reference website.
 
 ## Screenshots
 
-![alt text](https://raw.githubusercontent.com/kawthar-bensalah/Data_Extraction_Project/master/s1.PNG)
+![alt text]()
 
-![alt text](https://raw.githubusercontent.com/kawthar-bensalah/Data_Extraction_Project/master/s2.PNG)
+![alt text]()
 
-![alt text](https://raw.githubusercontent.com/kawthar-bensalah/Data_Extraction_Project/master/s3%20(4).png)
+![alt text]()
 
+<p float="left">
+<img src="https://raw.githubusercontent.com/kawthar-bensalah/Data_Extraction_Project/master/s1.PNG" width="310" /> <img src="https://raw.githubusercontent.com/kawthar-bensalah/Data_Extraction_Project/master/s2.PNG" width="310" /> <img src="https://raw.githubusercontent.com/kawthar-bensalah/Data_Extraction_Project/master/s3%20(4).png" width="310" />
+ </p>
 
 
 
